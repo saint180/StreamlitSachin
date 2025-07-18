@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.Text("Hello world")
+st.text("Hello world")
